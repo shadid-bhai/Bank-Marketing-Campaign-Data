@@ -1,4 +1,5 @@
 # Bank Marketing Campaign: Data Cleaning & ETL Pipeline
+![Bank Marketing](piggy_bank.jpg)
 
 This project focuses on building an ETL (Extract, Transform, Load) pipeline for a bank's marketing campaign dataset. The goal is to take a raw, messy dataset and transform it into three clean, structured files—`client.csv`, `campaign.csv`, and `economics.csv`—optimized for loading into a PostgreSQL database.
 
